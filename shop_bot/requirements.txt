@@ -1,0 +1,9 @@
+python-telegram-bot[webhooks,job-queue]==21.6
+langgraph==0.2.45
+langchain-core==0.3.15
+langchain-openai==0.2.6
+pydantic==2.9.2
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+tzdata==2024.2
+python-dotenv==1.0.1
