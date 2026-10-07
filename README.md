@@ -354,7 +354,7 @@ Telegram requires a public HTTPS URL for webhooks; on a PaaS this is the app dom
 
 ## 👤 About the author
 
-**Ali Rostami**, LLM & AI Agent Engineer / Python Developer
+**Arya Rostami**, LLM & AI Agent Engineer / Python Developer
 
 I build production LLM agents: LangGraph and multi-agent architectures, vision-LLM pipelines, RAG with vector databases, and prompt engineering, shipped as real products rather than demos. I'm also familiar with fine-tuning, RLHF and deep-learning fundamentals, which helps me reason about what happens underneath the APIs.
 
