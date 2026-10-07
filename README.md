@@ -363,7 +363,7 @@ I build production LLM agents: LangGraph and multi-agent architectures, vision-L
 | | |
 |---|---|
 | 🌐 Showcase & demos | [company.chatbotsupport.ir](https://company.chatbotsupport.ir/) |
-| ✉️ Email | alirst9797@gmail.com |
+| ✉️ Email | arya.riii.36@gmail.com |
 | 💼 LinkedIn | <!-- TODO: add link --> |
 
 ---
